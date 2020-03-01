@@ -1,0 +1,15 @@
+@startuml
+
+(*) -right-> "random index"
+"random index" -right-> "fetch version"
+"fetch version" -right-> "fetch codename first"
+"fetch version" -down-> "fetch codename last"
+"fetch codename first" -right-> "concat and fetch LTS"
+"fetch codename last" -up-> "concat and fetch LTS"
+"concat and fetch LTS" -right-> (*)
+
+note right
+Focal Fossa LTS
+end note
+
+@enduml

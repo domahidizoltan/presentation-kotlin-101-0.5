@@ -8,6 +8,6 @@ Author: Zoltán Domahidi
 
 ### Talks
 
-| Event                 | Location                             | Date       |
-|-----------------------|--------------------------------------|------------|
-| Internal presentation | Magyar Telekom HQ, Hungary, Budapest | 8 May 2020 |
+| Event                 | Location                             | Date           |
+|-----------------------|--------------------------------------|----------------|
+| Internal presentation | Magyar Telekom HQ, Hungary, Budapest | 31 August 2020 |
